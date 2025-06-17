@@ -1,6 +1,4 @@
 # 📄 Guía de Buenas Prácticas para Pull Requests (PRs)
-### Proyecto: [Nombre del Proyecto / Empresa]
-
 ---
 
 ## 🎯 Objetivo
